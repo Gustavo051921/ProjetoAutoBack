@@ -73,18 +73,18 @@ if(isset($_POST['submit'])){
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cadastro</title>
-    <link rel="stylesheet" href="http://localhost/eixo/Visual/Frontend/cadastrocerto.css">
+    <link rel="stylesheet" href="http://localhost/git/ProjetoAutoFront/front_css/cadastro.css">
 </head>
 
 <body>
 
     <header>
         <div id="logo">
-            <img src="/EixoAuto/img/Logo E branca real.png" alt="Logo da empresa `Eixo´">
+            <img src="/ProjetoAutoFront/front_img/Icons/Logo E branca real.png" alt="Logo da empresa `Eixo´">
         </div>
 
         <nav>
-            <a href="http://localhost/eixo/Visual/Backend/home.php">⇠ Voltar</a>
+            <a href="/ProjetoAutoBack/Backend/home.php">⇠ Voltar</a>
         </nav>
     </header>
 
